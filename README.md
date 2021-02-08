@@ -1,4 +1,4 @@
-# I am a strategist and a mindmaster.
+**I am a strategist and a mindmaster.**
 
 ### 你只需:
 
