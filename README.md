@@ -1,11 +1,10 @@
-### Hi there 👋
+# I am a strategist and a mindmaster.
 
-#####   🔭 I’m a modeling scientist, i.e.,
--      to collect and clean data and to analyze and model them,
--      in the traditional way or in the machine learning/deep learning way.
--      Simulations may also be engaged in the process.
+### 你只需:
 
-#####   🔭 I love observing the world, and usually investigate it by
--      coding with `Python`,
--      based `Dlang`(if I have to write) and other libs.
--      on various `Linux` distributions.
+- 紧盯自己的目标,
+- 专注自己的生活,
+- 做好每一次选择,
+
+就是对自己人生负责.
+### 👋 👋 👋 👋 👋 👋
