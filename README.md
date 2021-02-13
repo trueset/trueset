@@ -1,4 +1,5 @@
-**I am a strategist and a mindmaster.**
+**I am a researcher and
+         strategist.**
 
 ### 你只需:
 
