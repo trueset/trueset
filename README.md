@@ -1,5 +1,5 @@
-**I am a researcher and
-         strategist.**
+**I am a data scientist, who
+Thinks in multi-scale dimensions.**
 
 ### 你只需:
 
